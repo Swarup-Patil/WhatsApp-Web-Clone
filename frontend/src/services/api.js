@@ -1,7 +1,7 @@
 // src/services/apiService.js
 import axios from "axios";
 
-const API_BASE_URL = "https://whatsapp-web-clone-1vln.onrender.com/";
+const API_BASE_URL = "https://whatsapp-web-clone-1vln.onrender.com/api";
 
 const api = axios.create({
   baseURL: API_BASE_URL,
