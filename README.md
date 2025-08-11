@@ -125,6 +125,5 @@ Feel free to fork and modify.
 
 ## 👨‍💻 Author
 **Swarup Patil**  
-📧 Email: swarupaa619yes@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/swarup-santosh-patil/)  
 💻 [GitHub](https://github.com/Swarup-Patil)
