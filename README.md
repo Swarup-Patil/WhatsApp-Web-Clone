@@ -125,5 +125,6 @@ Feel free to fork and modify.
 
 ## 👨‍💻 Author
 **Swarup Patil**  
-📧 Email: your.email@example.com  
-💼 [LinkedIn](https://www.linkedin.com/in/your-profile)# 📩 WhatsApp Chat UI & Message Processor (MERN Stack)
+📧 Email: swarupaa619yes@gmail.com 
+🔗 [LinkedIn](https://www.linkedin.com/in/swarup-santosh-patil/)  
+💻 [GitHub](https://github.com/Swarup-Patil)
